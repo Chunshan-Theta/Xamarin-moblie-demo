@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Json;
 using System.Net;
 using System.IO;
- 
+ //you can get data of json from URL you give
  public string FetchWeatherAsync(string url)
         {
             // Create an HTTP web request using the URL:
