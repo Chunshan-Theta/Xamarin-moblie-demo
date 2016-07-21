@@ -4,8 +4,8 @@
 	
 	//set your UITableView
 	//the program could :
-	//1. set UITableView1.Source with string[]
-	//2. set UITableViewRowAction's action,title,backgroundcolor
+	//1. set UITableView.Source with string[]
+	//2. set UITableViewRowAction's action(click and right button),title,backgroundcolor
 	public partial class ViewController : UIViewController
     {
 		public override void ViewDidLoad()
